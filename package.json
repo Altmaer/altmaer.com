@@ -1,0 +1,16 @@
+{
+  "name": "altmaer",
+  "version": "1.0.0",
+  "description": "Altmaer landing page",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Altmaer (https://altmaer.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
